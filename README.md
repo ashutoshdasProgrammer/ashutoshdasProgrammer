@@ -1,5 +1,11 @@
 # 💫 About Me:
-🌌 What I'm currently working on<br>I'm a passionate developer exploring the world of AI, backend development, and automation. I'm currently working on AI-powered applications and backend services to solve real-world problems.<br><br><br>👥 What I'm looking to collaborate on<br>I'm open to collaborations on AI, machine learning, and full-stack projects. If you're working on something innovative in these areas, I'd love to contribute!<br><br><br>🤝 What I'm looking for help with<br><br><br>Optimizing AI models for better performance<br>Improving backend services for scalability<br>Enhancing automation scripts for efficiency<br>Advanced techniques in cloud computing and DevOps<br><br>🌱 What I'm currently learning<br>I'm diving deeper into cloud computing, DevOps practices, and advanced AI algorithms to improve my skills and build more robust applications.<br><br><br>💬 Topics people can ask me about<br><br><br>Backend Development (Flask, Django, Node.js)<br>AI and Machine Learning (TensorFlow, PyTorch)<br>Cloud Computing (AWS, Docker, Kubernetes)<br>Automation Scripts (Python, Bash)<br><br>⚡ A fun fact about me<br>Beyond coding, I love solving coding challenges and building automation scripts to simplify everyday tasks. I also enjoy playing cricket and participating in hackathons.
+🌌 I love thinking and building in systems that last, I enjoy the process of building them and knowing how things work on a macro level!
+
+🌱 I’m currently learning Product Design & ML and Expermenting with AI
+
+💬 Ask me about Programming, Product Design, Web Design
+
+📫 How to reach me ashutoshdasmail276@gmail.com
 
 
 ## 🌐 Socials:
